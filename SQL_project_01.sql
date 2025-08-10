@@ -230,5 +230,12 @@ SELECT * ,
 -- END OF PROJECT
 
 
+EMAIL ID- biswassougat652@gmail.com
+Linkedin- http://www.linkedin.com/in/sougat-biswas-4bbb18197
+Contact number- +91 9083927538
+
+Thank you!
+
+
 
 
