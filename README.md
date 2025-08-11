@@ -2,7 +2,9 @@
 
 **Project Overview**
 
-Project Title: **Retail Sales Analysis**
+ **Retail Sales Analysis**
+ 
+Project Title: Retail Sales Analysis
 Level: Beginner
 Database: sql_project_p1
 
